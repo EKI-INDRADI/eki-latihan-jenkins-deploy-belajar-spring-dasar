@@ -3,4 +3,4 @@
 by Programmer Zaman Now
 
 # Trigger jenkins
-- poll SCM EEKI TESTING
+- poll SCM EKI TESTING
